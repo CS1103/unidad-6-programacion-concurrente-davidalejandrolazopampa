@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Desktop/MatrizMulti/Matriz.cpp
+type_traits
+-
+Matriz.h
+C:/Users/David Lazo/Desktop/MatrizMulti/Matriz.h
+random
+-
+iostream
+-
+
+C:/Users/David Lazo/Desktop/MatrizMulti/Matriz.h
+
+C:/Users/David Lazo/Desktop/MatrizMulti/main.cpp
+iostream
+-
+Matriz.h
+C:/Users/David Lazo/Desktop/MatrizMulti/Matriz.h
+Matriz.cpp
+C:/Users/David Lazo/Desktop/MatrizMulti/Matriz.cpp
+
